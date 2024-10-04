@@ -21,12 +21,12 @@
 
 ##Фрагмент кода на языке Java
 
-``
+```
     @Component
     public class MainClass() {
 
     } 
-``
+```
 
 Это мой профиль на платформе GitHub, [Сюда тыкай](https://github.com/dmitrysmn "Ссылка на мою страницу GitHub")
 
