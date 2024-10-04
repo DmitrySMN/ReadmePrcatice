@@ -28,7 +28,7 @@
     } 
 ```
 
-Это мой гитфакинхаб, [Сюда тыкай](https://github.com/dmitrysmn "Ссылка на мою страницу GitHub")
+Это мой профиль на платформе GitHub, [Сюда тыкай](https://github.com/dmitrysmn "Ссылка на мою страницу GitHub")
 
 :alien:
 :hand:
